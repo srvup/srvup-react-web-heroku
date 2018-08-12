@@ -1,6 +1,6 @@
-Srvup React.js using Node.js
+Using a Simple Node Server
 ====
-Simple deploy
+It's a simple node server as you can see in `index.js`. There are requirements for this project that heroku will automatically install. It's all listed in `package.json`. Keep in mind that all this project do is run a "catch-all" url for your static files built in [this repo](https://github.com/srvup/srvup-react-web).
 
 ```
 
